@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\resposta4.7\bin\Debug\net7.0\resposta4.7.exe
+C:\Users\Davi\Documents\resposta4.7\bin\Debug\net7.0\resposta4.7.deps.json
+C:\Users\Davi\Documents\resposta4.7\bin\Debug\net7.0\resposta4.7.runtimeconfig.json
+C:\Users\Davi\Documents\resposta4.7\bin\Debug\net7.0\resposta4.7.dll
+C:\Users\Davi\Documents\resposta4.7\bin\Debug\net7.0\resposta4.7.pdb
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.csproj.AssemblyReference.cache
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.AssemblyInfo.cs
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.dll
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\refint\resposta4.7.dll
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.pdb
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\resposta4.7.genruntimeconfig.cache
+C:\Users\Davi\Documents\resposta4.7\obj\Debug\net7.0\ref\resposta4.7.dll
